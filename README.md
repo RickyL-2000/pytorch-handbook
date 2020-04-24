@@ -11,30 +11,35 @@
 ## 版本说明
 由于PyTorch版本更迭，教程的版本会与PyTorch版本，保持一致。
 
-2019.10.10 PyTorch已经发布1.3的稳定版。
+2020.1.16 PyTorch已经发布1.4的稳定版。
 
-目前测试完前3章的代码可完全兼容1.3
-
-目前已知：第四章tensorboard有兼容性问题（解决中）
+Java bindings 被列入了支持列表，这几天准备出一个springboot的集成教程
 
 
 
 
-## QQ 2群 
 
-群号：681980831
+## QQ 4群 
 
+群号：884017356
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PyTorch Handbook 交流4群" title="PyTorch Handbook 交流4群"></a>
 
 扫描二维码
 
-![QR](Pytorch-Handbook-2.png) 
+![QR](Pytorch-Handbook-4.png) 
+
+[点击链接加入群聊 『PyTorch Handbook 交流4群』](//shang.qq.com/wpa/qunwpa?idkey=2779cfbc9937dac6d2a7915b91b26e6425143f07b5e45ba5b2b04d10350a20eb)
+
+1群(985896536)已满，2群(681980831) 3群(773681699)已满
+
+不要再加了
+
+## 新福利
+
+公众账号除干货文章以外，还提供 阿里 快手 头条 美团 滴滴 等大厂 内推信息，有兴趣的大家可以关注：
+![weixin QR](deephub.jpg) 
 
 
-或
-
-[点击链接加入群聊 『PyTorch Handbook 交流2群』](//shang.qq.com/wpa/qunwpa?idkey=27a51a46371d751795c3a6f0331065b53bfff96b81c27d1646451e21df5463c4)
-
-1群(985896536)已满，不要再加了：
 
 ## 说明
 
@@ -105,7 +110,7 @@
 
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
-[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+[tensorboardx](chapter4/4.2.2-tensorboardx.ipynb) 
 
 [可视化理解卷积神经网络](chapter4/4.2.3-cnn-visualizing.ipynb)
 
@@ -120,7 +125,9 @@
 #### 第一节 Kaggle介绍
 [Kaggle介绍](chapter5/5.1-kaggle.md)
 #### 第二节 结构化数据
+[Pytorch处理结构化数据](chapter5/5.2-Structured-Data.ipynb)
 #### 第三节 计算机视觉
+[Fashion MNIST 图像分类](chapter5/5.3-Fashion-MNIST.ipynb)
 #### 第四节 自然语言处理
 #### 第五节 协同过滤
 
@@ -128,6 +135,9 @@
 
 
 ### 第七章 附录
+
+[树莓派编译安装 pytorch 1.4](pi/)
+
 transforms的常用操作总结
 
 pytorch的损失函数总结
